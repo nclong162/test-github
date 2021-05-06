@@ -4,3 +4,6 @@ ll: tương tự ls nhưng chi tiết hơn
 mkdir: tạo thư mục 
 pwd : kiem tra vi tri thu muc hien tai 
 cd : chuyen toi thu muc can toi  
+git status : tình trạng hiện tại 
+git commit : tạo bản sao code muốn push lên
+git push : đưa code lên github
