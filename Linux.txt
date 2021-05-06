@@ -4,6 +4,21 @@ ll: tương tự ls nhưng chi tiết hơn
 mkdir: tạo thư mục 
 pwd : kiem tra vi tri thu muc hien tai 
 cd : chuyen toi thu muc can toi  
+
+
+
+<down code từ github>
+
+<kiểm tra code ở trên có thay đổi ko>
+- git fetch : ktra có sự thay đổi nào ko
+- git pull : cập nhật sự thay đổi về code trên máy
+
+rm -rf tên File : xoá thẳng thư mục dc chọn
+
+<quá trình push một file đã cập nhật lên github>
 git status : tình trạng hiện tại 
-git commit : tạo bản sao code muốn push lên
+git add + tên file : thêm thư mục để commit
+git commit -m "chú thích" : tạo bản sao code muốn push lên
 git push : đưa code lên github
+
+
