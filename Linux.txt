@@ -1,0 +1,6 @@
+git clone link... : download code về máy 
+ls : liệt kê thư mục, file trong folder tải về 
+ll: tương tự ls nhưng chi tiết hơn
+mkdir: tạo thư mục 
+pwd : kiem tra vi tri thu muc hien tai 
+cd : chuyen toi thu muc can toi  
